@@ -1,6 +1,6 @@
 /amicorpus
 
-/app/_pycache_
+app/_pycache_/
 
 /llama.cpp
 /MeetingSumModel
