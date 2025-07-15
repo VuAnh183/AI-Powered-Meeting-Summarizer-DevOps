@@ -3,7 +3,10 @@
 app/_pycache_/
 
 /llama.cpp
-/MeetingSumModel
+/MeetingSumModel/bart-summarizer
+/MeetingSumModel/data
+/MeetingSumModel/logs
+/MeetingSumModel/models
 
 /models
 .env
